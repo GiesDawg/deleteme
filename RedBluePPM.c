@@ -6,6 +6,7 @@
  *   another comment added on 10/14
  *   Hello this is Jared's comment.
  * 
+ *   Part two.
  *   RedBluePPM OutFileName numRows numCols
  * 
  *   Here our program takes in an outfile name, and two arguments for
